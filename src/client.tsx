@@ -237,7 +237,7 @@ function Chat() {
                         </button>
                         <div className="header-title">
                             <h1>MARQ | TravelBot</h1>
-                            <span className="model-label">llama-4</span>
+                            <span className="model-label">GLM 4.7</span>
                         </div>
                     </div>
                     <div className="header-right">
