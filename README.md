@@ -1,4 +1,5 @@
-# ✈️ cf_ai_Travelbot — AI Travel Planner Agent
+![License](https://img.shields.io/badge/license-Proprietary-red)
+# ✈️ Travelbot — AI Travel Planner Agent
 
 An AI-powered travel planning chatbot built on **Cloudflare Workers**, using **Agents SDK**, **Workers AI (GLM 4.7 Flash)**, and **Durable Objects** for stateful, real-time conversations.
 
@@ -102,6 +103,3 @@ This builds the Vite frontend and deploys the Worker + Durable Object to Cloudfl
 - **Language:** TypeScript
 - **Validation:** Zod schemas for tool inputs
 
-## 📄 License
-
-MIT
